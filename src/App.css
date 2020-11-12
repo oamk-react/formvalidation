@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+div {
+  text-align: left;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+label{
+  display: inline-block;
+  width: 200px;
+  text-align: left;
+}
+
+p {
+  display: inline-block;
+  margin: 0;
+  margin-left: 10px;
+  color: #ff0000;
+  height: 16px
+}
+
+button {
+  margin-top: 20px;
+}
